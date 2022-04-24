@@ -1,0 +1,24 @@
+body{
+    background-color: #b569b1
+}
+h1{
+    width: 74%;
+    margin: auto;
+}
+.container{
+    padding: 3%;
+}
+
+.red{
+    background-color:  #9fd8d4;
+}
+.blue{
+    background-color: #80b2ef;
+}
+.white{
+    background-color: #ffaaaa;
+}
+.btn{
+    margin-bottom: 10px;
+}
+
